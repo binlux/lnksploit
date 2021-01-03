@@ -1,6 +1,9 @@
 # lnksploit
 A Windows subsystem shortcut exploit generator
 
+# Donate using Bitcoin!
+Donations: bitcoin:12FP1JisjYCsgfteTLMQQMLnVBs65wZD8G
+
 # Usage
 open command line and write
 ```
